@@ -1,0 +1,6 @@
+*.swp
+*.pyc
+env/
+collectstatic
+db.sqlite3
+
